@@ -13,10 +13,12 @@ README.md
 
 **Wie füge ich die neuen Radiostreams ein?**
 
-Gehe in das folgende Verzeichnis: C:\Users\Benutzer\Documents\Euro Truck Simulator 2 -  
-oder für ATS: C:\Users\Benutzer\Documents\American Truck Simulator.
+Gehe in das folgende Verzeichnis für Euro Truck Simulator 2:<br/>
+C:\Users\Benutzer\Documents\Euro Truck Simulator 2<br/>
+Für American Truck Simulator:<br/>
+C:\Users\Benutzer\Documents\American Truck Simulator
 
-Dort findest du eine live_streams.sii. Die tauscht du mit meiner hier einfach um. Kopiere meine und ersetze diese dann mit der vorhandenen.
+Dort findest du eine live_streams.sii Die tauscht du mit meiner hier einfach um. Kopiere meine und ersetze diese dann mit der vorhandenen.
 
 
 
@@ -25,10 +27,14 @@ Dort findest du eine live_streams.sii. Die tauscht du mit meiner hier einfach um
 
 **How to install?**
 
-Go to the following directory: C:\Users\Benutzer\Documents\Euro Truck Simulator 2 -
-or for ATS: C:\Users\Benutzer\Documents\American Truck Simulator.
+Go to the following directory: 
 
-There you will find a live_streams.sii. Simply copy and then replace it.
+for Euro Truck Simulator 2: <br/>
+C:\Users\User\Documents\Euro Truck Simulator 2<br/>
+for American Truck Simulator:<br/>
+C:\Users\User\Documents\American Truck Simulator
+
+There you will find a live_streams.sii Simply copy and then replace it.
 
 
 
@@ -41,4 +47,4 @@ Ihr wollt bestimmte Radios in der Liste haben, die aber noch nicht hinzugefügt 
 
 ## Updates:
 
-Da Stream-URL's ausgetauscht werden müssen oder neue Radios hinzukommen, aktualisiere ich regelmäßig die live_streams.sii. Schaut daher bitte regelmäßig hier auf der Github Projektseite vorbei um immer das aktuellste Update zu haben.
+Da Stream-URL's ausgetauscht werden müssen oder neue Radios hinzukommen, aktualisiere ich regelmäßig die live_streams.sii Schaut daher bitte regelmäßig hier auf der Github Projektseite vorbei um immer das aktuellste Update zu haben.
