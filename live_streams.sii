@@ -180,7 +180,7 @@ live_stream_def : .live_streams {
  stream_data[175]: "http://87.98.130.255:8401/stream|HPR1: Today's Classic Country|Country|US|128"
  stream_data[176]: "http://player.ffn.de/radiobollerwagen.mp3|Radio Bollerwagen|Party|DE|192"
  stream_data[177]: "http://player.ffn.de/ffntannenbaum.mp3|FFN Tannenbaum|Christmas|DE|128"
- stream_data[178]: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radiolippe/livestream.mp3 Lippe|Various|DE|128"
+ stream_data[178]: "https://radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?1646134522|Lippe|Various|DE|128"
  stream_data[179]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[180]: "|* Wunsch Radio? *|-|-|0"
  stream_data[181]: "|* Version: 0.1 *|-|-|0"
