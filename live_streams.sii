@@ -126,7 +126,7 @@ live_stream_def : .live_streams {
  stream_data[121]: "http://tuner.m1.fm/hits.aac|The Hits|Various|DE|128"
  stream_data[122]: "https://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3|Die Neue Welle|Various|DE|128"
  stream_data[123]: "http://stream.blackbeatslive.de/|BlackBeats.FM|HipHop|DE|128"
- stream_data[124]: "http://addrad.io/4WRMH_|1Live Diggi|Top 40|DE|128"
+ stream_data[124]: "http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3|1Live Diggi|Top 40|DE|128"
  stream_data[125]: "http://62.138.2.128:8000/stream|54House.FM Main|House|DE|128"
  stream_data[126]: "http://85.25.209.150:80/rock_classics.mp3|Star FM Classic|Rock Classic|DE|128"
  stream_data[127]: "http://85.25.209.150:80/blues.mp3|Star FM Blues|Blues|DE|128"
