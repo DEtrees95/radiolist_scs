@@ -185,6 +185,7 @@ live_stream_def : .live_streams {
  stream_data[180]: "|* Wunsch Radio? *|-|-|0"
  stream_data[181]: "|* Version: 0.1Beta *|-|-|0"
  stream_data[182]: "|* *|-|-|0"
+ stream_data[183]: "|* *|-|-|0"
 }
 
 }
