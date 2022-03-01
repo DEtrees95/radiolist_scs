@@ -1,7 +1,5 @@
 # my_radio_list_scs
 
-README.md
-
 
 
 # Informationen und Anleitung zum installieren:
@@ -13,10 +11,11 @@ README.md
 
 **Wie füge ich die neuen Radiostreams ein?**
 
-Gehe in das folgende Verzeichnis für Euro Truck Simulator 2:<br/>
-C:\Users\Benutzer\Documents\Euro Truck Simulator 2<br/>
-Für American Truck Simulator:<br/>
-C:\Users\Benutzer\Documents\American Truck Simulator
+Gehe in das jeweilige Verzeichnis:<br/><br/>
+Euro Truck Simulator 2:<br/>
+```C:\Users\Benutzer\Documents\Euro Truck Simulator 2```<br/><br/>
+American Truck Simulator:<br/>
+```C:\Users\Benutzer\Documents\American Truck Simulator```
 
 Dort findest du eine live_streams.sii Die tauscht du mit meiner hier einfach um. Kopiere meine und ersetze diese dann mit der vorhandenen.
 
@@ -29,10 +28,10 @@ Dort findest du eine live_streams.sii Die tauscht du mit meiner hier einfach um.
 
 Go to the following directory: 
 
-for Euro Truck Simulator 2: <br/>
-C:\Users\User\Documents\Euro Truck Simulator 2<br/>
+Euro Truck Simulator 2:<br/>
+```C:\Users\User\Documents\Euro Truck Simulator 2```<br/><br/>
 for American Truck Simulator:<br/>
-C:\Users\User\Documents\American Truck Simulator
+```C:\Users\User\Documents\American Truck Simulator```
 
 There you will find a live_streams.sii Simply copy and then replace it.
 
