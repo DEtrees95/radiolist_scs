@@ -183,7 +183,7 @@ live_stream_def : .live_streams {
  stream_data[178]: "https://radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?1646134522|Radio Lippe|Various|DE|128"
  stream_data[179]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[180]: "|* Wunsch Radio? *|-|-|0"
- stream_data[181]: "|* Version: 0.1 *|-|-|0"
+ stream_data[181]: "|* Version: 0.1Beta *|-|-|0"
  stream_data[182]: "|* *|-|-|0"
 }
 
