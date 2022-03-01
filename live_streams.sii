@@ -35,7 +35,7 @@ live_stream_def : .live_streams {
  stream_data[30]: "http://streams.bigfm.de/bigfm-hotmusicradio-128-mp3|BigFM|Top 40|DE|128"
  stream_data[31]: "https://edge04.streamonkey.net/radio7-dab/stream/mp3|Radio 7|Various|DE|128"
  stream_data[32]: "http://scast.regenbogen.de/live|Radio Regenbogen|Various|DE|128"
- stream_data[33]: "http://addrad.io/4WRMN7|1Live|Top 40|DE|128"
+ stream_data[33]: "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3|1Live|Top 40|DE|128"
  stream_data[34]: "http://addrad.io/4WRNty|WDR 2|Various|DE|128"
  stream_data[35]: "http://stream.radioherford.de/444z8vy|Radio Herford|Various|DE|128"
  stream_data[36]: "http://dashitradio-de-hz-fal-stream06-cluster01.radiohost.de:80/dashitradio_128|Das Hitradio|Various|DE|96"
