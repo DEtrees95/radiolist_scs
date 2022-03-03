@@ -186,7 +186,7 @@ live_stream_def : .live_streams {
  stream_data[181]: "|* Version: 0.1Beta *|-|-|0"
  stream_data[182]: "|* *|-|-|0"
  stream_data[183]: "|* *|-|-|0"
- stream_data[183]: "https://coolism-web.cdn.byteark.com/|Thai|Various|TH|128"
+ stream_data[183]: "https://coolism-web.cdn.byteark.com/|Radio Thai|Various|TH|128"
 
 }
 
