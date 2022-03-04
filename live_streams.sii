@@ -187,7 +187,7 @@ live_stream_def : .live_streams {
  stream_data[182]: "|* *|-|-|0"
  stream_data[183]: "|* *|-|-|0"
  stream_data[184]: "|* *|-|-|0"
- stream_data[185]: "|Fuer Skipper|DE|DE|0"
+ stream_data[185]: "|Skipper|DE|DE|0"
  stream_data[186]: "http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3|NDR 90.3 Hamburg|-|DE|128"
  stream_data[187]: "|https://edge07.streamonkey.net/rhh-1036?aggregator=linkradiohamburgde|Radio Hamburg.de|Mix|128"
  stream_data[188]: "|* *|-|-|0"
