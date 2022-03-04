@@ -188,8 +188,8 @@ live_stream_def : .live_streams {
  stream_data[183]: "|* *|-|-|0"
  stream_data[184]: "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3|Radio Dreseden|Various|DE|128"
  stream_data[185]: "http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3|Radio 90,3 Hamburg|-|DE|128"
- stream_data[250]: "|PAUL|TH|TH|0"
- stream_data[251]: "https://coolism-web.cdn.byteark.com/|Radio Thai|Various|TH|128"
+ stream_data[186]: "|PAUL|TH|TH|0"
+ stream_data[187]: "https://coolism-web.cdn.byteark.com/|Radio Thai|Various|TH|128"
 
 }
 
