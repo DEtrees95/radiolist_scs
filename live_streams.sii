@@ -186,8 +186,8 @@ live_stream_def : .live_streams {
  stream_data[181]: "|* Version: 0.1Beta *|-|-|0"
  stream_data[182]: "|* *|-|-|0"
  stream_data[183]: "|* *|-|-|0"
- stream_data[183]: "|* *|-|-|0"
- stream_data[184]: "|Fuer Skipper|DE|DE|0"
+ stream_data[184]: "|* *|-|-|0"
+ stream_data[185]: "|Fuer Skipper|DE|DE|0"
  stream_data[186]: "http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3|NDR 90.3 Hamburg|-|DE|128"
  stream_data[187]: "|https://edge07.streamonkey.net/rhh-1036?aggregator=linkradiohamburgde|Radio Hamburg.de|Mix|128"
  stream_data[188]: "|* *|-|-|0"
@@ -195,6 +195,6 @@ live_stream_def : .live_streams {
  stream_data[190]: "https://coolism-web.cdn.byteark.com/|Radio Thai|Various|TH|128"
 
 }
-stream_data[185]: "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3|Radio Dreseden|Various|DE|128"
+stream_data[191]: "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3|Radio Dreseden|Various|DE|128"
 
 }
