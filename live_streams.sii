@@ -190,7 +190,7 @@ live_stream_def : .live_streams {
  stream_data[185]: "http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3|NDR 90.3 Hamburg|Various|DE|128"
  stream_data[186]: "https://edge63.streamonkey.net/rhh-1036/stream/mp3|Radio Hamburg.de|MIX|DE|128"
  stream_data[187]: "http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3|NDR 2|Various|DE|128"
- stream_data[188]: "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3|Radio Dreseden|Various|DE|128"
+ stream_data[188]: "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3|Radio Dresden|Various|DE|128"
  stream_data[189]: "|* *|-|-|0"
  stream_data[190]: "|PAUL|TH|TH|0"
  stream_data[191]: "https://coolism-web.cdn.byteark.com/|Radio Thai|Various|TH|128"
